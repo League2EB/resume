@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/resume/403.html","717f7c650531485bc808012206b01fb4"],["/resume/404.html","631e6d9e02bf109af35e4cffacfa7af0"],["/resume/Profile.png","c76f2c7da69e2a2f0c10847610ca2045"],["/resume/archives/2019/10/index.html","d41d8cd98f00b204e9800998ecf8427e"],["/resume/archives/2019/index.html","d41d8cd98f00b204e9800998ecf8427e"],["/resume/archives/index.html","d41d8cd98f00b204e9800998ecf8427e"],["/resume/atom.xml","2089a9efa1e27409c1662f30c9464a61"],["/resume/css/index.css","e44f4f0350d329ddccd66e906564f7cc"],["/resume/css/page.css","ffd97011e5b425aeafe3c52f40a555b4"],["/resume/index.html","1d094456379b9b1b487c692e7ba8fd36"],["/resume/index/index.html","d41d8cd98f00b204e9800998ecf8427e"],["/resume/js/common.js","748b78854064e842c09d1b9605209bba"],["/resume/js/css.escape.js","a2185e4074b2acf55b190d49300dc626"],["/resume/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/resume/js/vue.js","f4b9ce1ab181b7a316a0b3010670207c"],["/resume/js/vue.min.js","5283b86cbf48a538ee3cbebac633ccd4"],["/resume/page-sitemap.xml","34445f213f1eaae769132e32ab0bf29d"],["/resume/post-sitemap.xml","526c5657e206e6b6b75301779d5b2adf"],["/resume/posts/README/index.html","60ab512dc7bc204065e85c95fe9d48d4"],["/resume/sitemap.xml","1434bde57577db5c0a0f720cba4276f2"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
